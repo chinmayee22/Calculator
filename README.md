@@ -3,9 +3,9 @@ Calculator using HTML , CSS and JS
 
 ## 🔗 Links
 URL: 
-- [Github_Page]()
+- [Github_Page](https://chinmayee22.github.io/Calculator/)
 
-- [Vercel Live URL]()
+- [Vercel Live URL](https://calculator-97ooh2gn5-chinmayee22.vercel.app/)
 
 ## Authors
 - [Chinmayee Sahoo](https://github.com/chinmayee22)
